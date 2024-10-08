@@ -26,8 +26,8 @@ int tempC = D8;
 int wifi = D6;
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Grizzly";
-char pass[] = "Afhani26";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 {
